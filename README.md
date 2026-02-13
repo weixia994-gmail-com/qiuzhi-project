@@ -1,5 +1,5 @@
-# 秋芝项目 (Quizhi Project)
-# Quizhi Project
+# 秋芝项目 (qiuzhi Project)
+# qiuzhi Project
 
 旨在复刻 "Agent Skills Guide" 应用功能的综合项目，提供学习与创建 Agent Skills 的一站式工具。
 This project aims to replicate the functionality of the "Agent Skills Guide" app, providing a comprehensive tool for learning and creating Agent Skills.

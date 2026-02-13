@@ -1,5 +1,5 @@
-# 秋芝创意 (Quizhi Creative)
-# Quizhi Creative
+# 秋芝创意 (qiuzhi Creative)
+# qiuzhi Creative
 
 一个用于设计和理解 Agent Skills 的创意套件。
 A creative suite for designing and understanding Agent Skills.
